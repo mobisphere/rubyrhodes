@@ -1,0 +1,4 @@
+entry: Init_Rhoelements_extension	
+javaentry: com.rhoelements.Rhoelements
+android_additional_sources_list: ext/rhoelements/platform/android/ext_build.files
+libraries: ["Rhoelements"]
